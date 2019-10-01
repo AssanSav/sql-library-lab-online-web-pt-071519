@@ -1,0 +1,1 @@
+CREATE TABLE series (id INT PRIMARY KEY, title TEXT, author_id INT, subgenre_id INT)
